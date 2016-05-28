@@ -1,0 +1,7 @@
+com\ffiaux\config\provider\CustomAuthenticationProvider.class
+com\ffiaux\repository\UserRepository.class
+com\ffiaux\config\details\CustomUserDetails.class
+com\ffiaux\config\MvcConfig.class
+com\ffiaux\model\User.class
+com\ffiaux\SecuritytestApplication.class
+com\ffiaux\config\WebSecurityConfig.class
